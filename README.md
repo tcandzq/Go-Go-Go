@@ -1,2 +1,2 @@
 # Go-Go-Go
-# 跟着Jame Tao一起学Go语言
+# 跟着James Tao一起学Go语言
